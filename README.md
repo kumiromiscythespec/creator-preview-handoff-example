@@ -6,6 +6,12 @@ A fictional example for independent instructors and template creators who alread
 
 ![Four explicitly fictional worksheet previews in one sheet](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-worksheets.png)
 
+## Start with the ready-made example
+
+No files of your own are needed for this first look. Choose **Download the checked example ZIP** above and extract `preview-handoff-example.zip`. Read `README.txt`, then open `files/preview-worksheets.png`; `manifest.json` is the inventory. The included file is a single PNG showing four fictional previews.
+
+For an image-only look, choose **Open the PNG** above (`preview-worksheets.png`). The workflow below is the separate path for making a new example yourself; generating and saving remain separate actions.
+
 ## Try the workflow
 
 1. Open [Preview Sheet Studio](https://preview-sheet-studio-1111.crisp-llama-2628.chatgpt.site/), a Japanese-language tool. Press **架空の教材画像で一覧PNGを作る** to make the fictional four-preview example. Review the result, then choose **PNGを保存**. Generating and saving are separate actions.
