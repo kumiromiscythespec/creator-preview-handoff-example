@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "asset": "Fictional Worksheet Preview Inputs — English",
+  "version": "1.0.0",
+  "created_at_utc": "2026-11-13T13:58:20.406Z",
+  "fictional_practice_only": true,
+  "real_student_or_customer_work": false,
+  "maker_AI_assisted": true,
+  "permission": "You may download and modify the included fictional sample for your own practice.",
+  "commercial_use_grant_added": false,
+  "hosted_tool_Source_license_claim": false,
+  "PNG_input_count": 4,
+  "editable_SVG_count": 4,
+  "PNG_each": {
+    "format": "png",
+    "width": 640,
+    "height": 480,
+    "pixels": 307200
+  },
+  "PNG_combined_pixels": 1228800,
+  "PNG_total_bytes": 166140,
+  "hosted_tool_url": "https://preview-sheet-studio-1111.crisp-llama-2628.chatgpt.site/?lang=en",
+  "hosted_tool_accepts_SVG": false,
+  "prepared_input_pack_not_generated_tool_output": true,
+  "prepared_pack_not_Download_Bundle_output": true,
+  "optional_referral_ads_scope": "Only the separate hosted tool may display optional Payhip referral ads; no referral or ad content is embedded in these images.",
+  "hosted_input_validation": {
+    "source": "work/preview-sheet-studio/public/sheet.mjs",
+    "source_sha256": "8553da68eb488aebf063f43e20de70d1c576700131502a5260fea099a5bbb524",
+    "actual_limits": {
+      "files": 12,
+      "fileBytes": 5242880,
+      "totalBytes": 20971520,
+      "imagePixels": 12000000,
+      "totalPixels": 36000000,
+      "titleChars": 80,
+      "labelChars": 60,
+      "filenameChars": 48
+    },
+    "validateFiles": "PASS",
+    "validateDecoded": "PASS",
+    "inspectImage": "PASS_ALL_FOUR",
+    "full_PNG_pixel_decode": "PASS_ALL_FOUR"
+  },
+  "SVG_safety": {
+    "static_only": true,
+    "external_resources": false,
+    "scripts_or_event_handlers": false,
+    "namespace_URI_is_not_an_external_resource": true
+  },
+  "checksums_scope": "Every payload member except checksums.sha256; the enclosing ZIP is hashed separately outside itself.",
+  "inventory_excludes": [
+    "manifest.json",
+    "checksums.sha256",
+    "worksheet-preview-inputs-en.zip"
+  ],
+  "inventory": [
+    {
+      "path": "editable-svg/01-starter-sheet.svg",
+      "kind": "editable-svg",
+      "title": "Starter Sheet",
+      "purpose": "Blank small-project starter prompts",
+      "bytes": 2871,
+      "sha256": "cc767ee40beffefb475d1106cd66333f6f9c258948daf4dfd0b72ddff7f4c882",
+      "width": 640,
+      "height": 480,
+      "external_resources": false,
+      "script_or_event_handlers": false
+    },
+    {
+      "path": "input-png/01-starter-sheet.png",
+      "kind": "input-png",
+      "title": "Starter Sheet",
+      "purpose": "Blank small-project starter prompts",
+      "bytes": 35315,
+      "sha256": "4d7c80f8666b5c29f0512972db09ca8ac4bf10a6d10b4f14fd7a81465c6ac746",
+      "format": "png",
+      "width": 640,
+      "height": 480,
+      "pixels": 307200,
+      "full_pixel_decode_verified": true
+    },
+    {
+      "path": "editable-svg/02-idea-organizer.svg",
+      "kind": "editable-svg",
+      "title": "Idea Organizer",
+      "purpose": "Blank four-part organizer with a first-choice line",
+      "bytes": 3504,
+      "sha256": "78b747771ab4f228a2ea9f27a31f0630e277eea2c6e9b93a387f8a91c10e69cc",
+      "width": 640,
+      "height": 480,
+      "external_resources": false,
+      "script_or_event_handlers": false
+    },
+    {
+      "path": "input-png/02-idea-organizer.png",
+      "kind": "input-png",
+      "title": "Idea Organizer",
+      "purpose": "Blank four-part organizer with a first-choice line",
+      "bytes": 36650,
+      "sha256": "329be26230040f63ec17c5d247157e7cba28878a27515ef21bf3e7eee997991c",
+      "format": "png",
+      "width": 640,
+      "height": 480,
+      "pixels": 307200,
+      "full_pixel_decode_verified": true
+    },
+    {
+      "path": "editable-svg/03-reflection-prompts.svg",
+      "kind": "editable-svg",
+      "title": "Reflection Prompts",
+      "purpose": "Four blank reflection prompts",
+      "bytes": 3496,
+      "sha256": "e6828b7971eea5102bad48b1a3b244a1abc8b5693b5efad98c810a8916808723",
+      "width": 640,
+      "height": 480,
+      "external_resources": false,
+      "script_or_event_handlers": false
+    },
+    {
+      "path": "input-png/03-reflection-prompts.png",
+      "kind": "input-png",
+      "title": "Reflection Prompts",
+      "purpose": "Four blank reflection prompts",
+      "bytes": 37180,
+      "sha256": "a8cfb8943d53c19445bafcbcedbeb0887646cc469880a159b2f05025971481cc",
+      "format": "png",
+      "width": 640,
+      "height": 480,
+      "pixels": 307200,
+      "full_pixel_decode_verified": true
+    },
+    {
+      "path": "editable-svg/04-filled-in-example.svg",
+      "kind": "editable-svg",
+      "title": "Filled-in Example",
+      "purpose": "Clearly fictional worked answers for a tiny balcony garden",
+      "bytes": 3663,
+      "sha256": "c8b3982414567e3bfe252642fa0051bc03844a9e03304e60281bd64025211d32",
+      "width": 640,
+      "height": 480,
+      "external_resources": false,
+      "script_or_event_handlers": false
+    },
+    {
+      "path": "input-png/04-filled-in-example.png",
+      "kind": "input-png",
+      "title": "Filled-in Example",
+      "purpose": "Clearly fictional worked answers for a tiny balcony garden",
+      "bytes": 56995,
+      "sha256": "13fa6c902f74544cc55355432589c66273ed0a3a2bd016897f54f97dfe6f00c5",
+      "format": "png",
+      "width": 640,
+      "height": 480,
+      "pixels": 307200,
+      "full_pixel_decode_verified": true
+    },
+    {
+      "path": "README.txt",
+      "kind": "instructions",
+      "bytes": 1868,
+      "sha256": "d2140dfa4bee78dc2ce9c03c90bf31ad57d76b55fdc2876ae9249c917bf769ee"
+    }
+  ]
+}

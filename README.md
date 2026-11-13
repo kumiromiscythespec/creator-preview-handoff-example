@@ -2,6 +2,8 @@
 
 A fictional example for independent instructors and template creators who already have preview images and want to send one image with clear opening notes. It demonstrates two small browser tools working together. It contains no customer work or complete teaching product.
 
+**Want individual practice pages?** [Use four PNG inputs and editable SVG artwork](#practice-inputs-you-can-edit) before making your own first preview sheet.
+
 [Download the checked example ZIP](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-handoff-example.zip) · [Open the PNG](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-worksheets.png) · [Release notes](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/tag/v1.0.0)
 
 ![Four explicitly fictional worksheet previews in one sheet](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-worksheets.png)
@@ -44,3 +46,29 @@ Both tools are free to use without an account. File content and inputs are proce
 **Disclosure:** I maintain the tools and used AI assistance to build them and prepare this walkthrough. The tool pages have separate, optional, labelled Payhip referral advertising; eligible referrals may compensate me. No purchase or referral click is needed for this workflow. The included generated image, README and inventory contain no advertisement or referral URL.
 
 You may download and modify the included fictional sample for your own practice. This repository does not distribute or license the hosted tools' source code. The example is not a customer testimonial, sales result or evidence of profit.
+
+## Practice inputs you can edit
+
+Start with individual pages instead of the finished four-cell image. This companion contains three blank practice layouts and one clearly fictional filled-in example. It is practice artwork, not a complete teaching product or customer work.
+
+[Download the practice-input ZIP](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.1.0/worksheet-preview-inputs-en.zip) · [Open the page overview](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.1.0/worksheet-inputs-overview.png)
+
+![Four fictional practice pages: Starter Sheet, Idea Organizer, Reflection Prompts and Filled-in Example](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.1.0/worksheet-inputs-overview.png)
+
+The ZIP includes four 640 × 480 PNG inputs and four matching editable SVG artwork files, plus `README.txt`, `manifest.json` and `checksums.sha256`. The overview and ZIP are separately prepared companion assets, not exports from the hosted tools.
+
+| Page | Select this PNG in Preview Sheet Studio | Optional artwork to edit in another suitable editor |
+|---|---|---|
+| Starter Sheet | `input-png/01-starter-sheet.png` | `editable-svg/01-starter-sheet.svg` |
+| Idea Organizer | `input-png/02-idea-organizer.png` | `editable-svg/02-idea-organizer.svg` |
+| Reflection Prompts | `input-png/03-reflection-prompts.png` | `editable-svg/03-reflection-prompts.svg` |
+| Filled-in Example — fictional | `input-png/04-filled-in-example.png` | `editable-svg/04-filled-in-example.svg` |
+
+1. Download and extract `worksheet-preview-inputs-en.zip`. Read `README.txt` and locate the four files under `input-png/`.
+2. Open [Preview Sheet Studio in English](https://preview-sheet-studio-1111.crisp-llama-2628.chatgpt.site/?lang=en). Choose those four PNGs together using **Choose images**. The tool does not accept SVG files; do not select `editable-svg/` here.
+3. Change the **Title** or one image label to your own practice wording, then choose **Generate preview PNG**. Editing clears the previous output, so generate again after each change.
+4. Review the text, image order and margins. **Save PNG** is a separate optional action that asks your browser to start a download. Open any saved file yourself to check it; the tool cannot confirm that saving finished.
+
+The SVG files are optional source artwork for these fictional pages, not hosted-tool source code. Edit them in another suitable editor and export PNGs before selecting the changed pages in Preview Sheet Studio. The tool does not edit or synchronize SVG artwork.
+
+The own-practice permission and maker/AI/referral disclosure above remain the terms for this example. No broader commercial-use grant or hosted-tool source license is added. No purchase or referral click is needed to use the sample files or tool.
