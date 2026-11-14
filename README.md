@@ -39,6 +39,14 @@ The PNG is 1600 × 1200 pixels, with four fictional worksheet previews in two co
 
 The three ZIP entries passed CRC checks, and the inventory's file size and CRC32 matched the included PNG. CRC32 and these publication checks do not certify file safety or authenticity. The ZIP is uncompressed and unencrypted.
 
+## If you plan to sell your own finished files
+
+For creators who already have their own finished PDF, template or ZIP files and the right to sell them, the [free English first-sale checklist](https://download-bundle-studio-1111.crisp-llama-2628.chatgpt.site/guide-en.html?utm_source=owned_blog&utm_medium=article&utm_campaign=preview_handoff_first_sale#first-sale) covers checking a saved bundle, explaining what buyers receive, keeping an existing channel or comparing selling-service fees.
+
+The fictional practice files in this repository are not a finished product to sell. Their existing own-practice permission is unchanged. Files and text do not transfer to the linked guide.
+
+**Maker disclosure:** I maintain the tools and guide, with AI assistance. The guide includes labelled, optional Payhip referral advertising; eligible use may compensate me. No account, purchase or referral click is needed to read the checklist.
+
 ## About the tools and this example
 
 Both tools are free to use without an account. File content and inputs are processed in the browser; separate anonymous use counts are collected. Keep a sharing method or store that already fits your needs.
