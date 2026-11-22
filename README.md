@@ -4,6 +4,8 @@ A fictional example for independent instructors and template creators who alread
 
 **Want individual practice pages?** [Use four PNG inputs and editable SVG artwork](#practice-inputs-you-can-edit) before making your own first preview sheet.
 
+**Want to show two pages of an Excel template?** [Try the delivery-statement pagination practice pack](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/tag/v1.2.0). It includes the free fixed workbook, two A4 print images, and instructions in Japanese and English. [納品明細の改ページを試す](delivery-note-practice/README.md)
+
 [Download the checked example ZIP](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-handoff-example.zip) · [Open the PNG](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-worksheets.png) · [Release notes](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/tag/v1.0.0)
 
 ![Four explicitly fictional worksheet previews in one sheet](https://github.com/kumiromiscythespec/creator-preview-handoff-example/releases/download/v1.0.0/preview-worksheets.png)
